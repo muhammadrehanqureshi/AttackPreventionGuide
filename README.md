@@ -13,11 +13,7 @@ A repository dedicated to addressing cybersecurity attacks, educating potential 
 - Malware
 - Brute Force Attacks
 
-## Tools and Scripts
-- **Phishing URL Detector**: Detects potentially malicious URLs.
-- **Password Strength Checker**: Validates the strength of passwords and suggests improvements.
-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muhammadrehanqureshi/AttackPreventionTools.git
+   git clone https://github.com/muhammadrehanqureshi/AttackPreventionGuide.git
