@@ -12,8 +12,3 @@ A repository dedicated to addressing cybersecurity attacks, educating potential 
 - Distributed Denial of Service (DDoS)
 - Malware
 - Brute Force Attacks
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/muhammadrehanqureshi/AttackPreventionGuide.git
